@@ -3,3 +3,5 @@
 Neue Zeile eingefügt
 
 staging
+
+Konliktpotenzial: Hoch!
